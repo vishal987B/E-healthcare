@@ -1,0 +1,15 @@
+.loginHeader{
+     background-color: rgba(85, 231, 224, 0.931);
+     height: 50px;
+     padding: 10px;
+}
+
+.box{
+
+     width: 45%;
+     height: 100%;
+     float: right;
+}
+.navbar-nav > .active > a {
+                color: red;
+            }
